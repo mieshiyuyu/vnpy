@@ -1,6 +1,6 @@
 # vn.py - By Traders, For Traders.
 
-啊啊啊啊啊
+
 ---
 ### 简介
 
